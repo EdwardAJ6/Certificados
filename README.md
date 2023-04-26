@@ -75,4 +75,4 @@ python manage.py runserver
 
 ## Créditos
 
-- [Edward J. Alexander](https://github.com/EdwardAJ6)
+- [Edward Iva Alba Jerez](https://github.com/EdwardAJ6)
